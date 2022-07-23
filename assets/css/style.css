@@ -170,7 +170,6 @@ a.topnav-title {
 #about, #skills, #education, #contact {
     box-shadow: 3px 0px 5px black;
     box-sizing: border-box;
-    display: flexbox;
     background-color: #ADCFA3;
     padding: 30px;
     margin: 40px 0px;
